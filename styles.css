@@ -3,11 +3,11 @@
 	margin: 20px;
 }
 #first{
-	color:rgb(255, 0, 0);
+	color:rgb(0, 0, 0);
 	font-size:20px;
 }
 #last{
-	color:rgb(255, 0, 0);
+	color:rgb(0, 0, 0);
 	font-size:20px;
 }
 #first:hover{
